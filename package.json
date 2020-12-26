@@ -1,7 +1,7 @@
 {
   "name": "razimurshedresume",
   "version": "0.1.0",
-  "homepage": "http://rmursh.github.io/",
+  "homepage": "http://rmursh.github.io/react-resume",
   "private": true,
   "dependencies": {
     "anix": "^0.3.3",
