@@ -1,0 +1,142 @@
+{
+  "main": {
+    "name":"Razi Murshed",
+    "description":"Welcome to my personal website! I am a software engineer based in Toronto, Canada",
+    "image":"profilepic.jpg",
+    "bio":"I am a Software Engineer based in Canada specializing in large scale software system design, web application development, telecommunications, computer security and software architecture. Over the past 5 years, I have worked in various capacities developing software for both industry and academia. I am currently a Software Development Engineer at Amazon and have been affiliated with various other organizations in the past. Recently, I have been taking a active interest in learning Front End software development. Besides work, I love to watch and play sports such as Soccer, Cricket and Badminton. I play the keyboards and like to experiment with music creation software. Additionally, I love to travel and all the pictures taken above are from my travels!",
+    "contactmessage":"Lets get in touch!",
+    "email": "razi.murshed@gmail.com",
+    "phone": "+1 438-390-9398",
+    "github":"https://github.com/rmursh",
+    "address":{
+      "city":"Toronto",
+      "state":"ON"
+    },
+    "website": "http://www.timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/razi.murshed",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/razi-murshed-980bb364/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/rmursh",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here are my software engineering skills and my self assesed proficiency at each one of them.",
+    "education":[
+      {
+        "school":"McGill University",
+        "degree":"Bachelor of Engineering (Honours)",
+        "graduated":"September 2012 - December 2016",
+        "description":"I was an Honours Electrical engineering student at McGill University in Montreal, Canada where I conducted research in the Advanced Networking Research Laboratory. My program also included multiple coop terms. While at McGill, I also worked on several hardware and software projects of which notable ones include a search and rescue robot, FM Radio and an honours thesis profiling the linux network stack."
+      }
+    ],
+    "work":[
+      {
+        "company":"Amazon",
+        "title":"Software Development Engineer 2 ",
+        "years":"August 2019 - Present",
+        "description":[
+          "Carrying out full stack software development for Amazon's Customer Engagement Technologies division.",
+          "Developing features, driving deprecations and migrations for Amazon's customer contact management systems.",
+          "As Scrum master running sprint planning and retro meetings, carrying out backlog refinement and implementing best scrum practices.",
+          "Developing frontend software systems using React, Redux and Perl Mason.",
+          "Developing Backend infrastructure and services using Native AWS and Java/Python.",
+          "Mentoring interns and new graduates to hire and develop the best."
+        ]
+      }, 
+      {
+        "company":"Ciena Canada Incorporated",
+        "title":"Software Engineer 2 ",
+        "years":"January 2017 - July 2019",
+        "description":[
+          "Delivering software components that drives Ciena's Data Center Interconnect solution, the Waveserver Platform.",
+          "Tailored solutions to needs of customers such as Google, Amazon, Facebook and Comcast.",
+          "Notable projects include MongoDB based Database Manager, Alarm Management Subsystem, License Manager, Flight Recorder system and Encryption Engine.",
+          "Developed software using C/C++ for a RHEL platform."
+        ]
+
+      },
+      {
+        "company":"Matrox Graphics Incorporated",
+        "title":"Software Engineer Coop",
+        "years":"May 2016 - August 2016",
+        "description":[
+          "Developed a performance benchmarking tools for the windows display wall team.",
+          "Created a performance testing framework using Visual Studio and C++ for matrox graphics cards.",
+          "Used framework to run benchmarking tests for cards running on various DirectX  and OpenGL APIs.",
+          "Identified and analyzed possible sources of latency and suggested possible improvements."
+        ]
+
+      },
+      {
+        "company":"Ericsson Canada Incorporated",
+        "title":"Software Developer Coop",
+        "years":"January 2018 - August 2015",
+        "description":[
+          "Developed software for the Authentication Federation Gateway team using Agile scrum and kanban.",
+          "Used C++ and Java to write source code for product and Java to develop internal test framework.",
+          "Used JavaScript and Perl for frontend business logic development.",
+          "Used docker and VMWare to set up test deployments for integration testing"
+        ]
+
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"95%"
+      },
+      {
+        "name":"C/C++",
+        "level":"95%"
+      },
+      {
+        "name":"Perl",
+        "level":"65%"
+      },
+      {
+        "name":"MATLAB",
+        "level":"75%"
+      },
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"60%"
+      },
+      {
+        "name":"AWS",
+        "level":"70%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"50%"
+      },
+      {
+        "name":"SQL",
+        "level":"50%"
+      },
+      {
+        "name":"Atlassian Tools Suite",
+        "level":"80%"
+      },
+      {
+        "name":"Git",
+        "level":"90%"
+      }
+    ]
+  }
+}
