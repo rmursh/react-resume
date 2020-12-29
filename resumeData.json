@@ -3,7 +3,7 @@
     "name":"Razi Murshed",
     "description":"Welcome to my personal website! I am a software engineer based in Toronto, Canada",
     "image":"profilepic.jpg",
-    "bio":"I am a Software Engineer based in Canada specializing in large scale software system design, web application development, telecommunications, computer security and software architecture. Over the past 5 years, I have worked in various capacities developing software for both industry and academia. I am currently a Software Development Engineer at Amazon and have been affiliated with various other organizations in the past. Recently, I have been taking a active interest in learning Front End software development. Besides work, I love to watch and play sports such as Soccer, Cricket and Badminton. I play the keyboards and like to experiment with music creation software. Additionally, I love to travel and all the pictures taken above are from my travels!",
+    "bio":"I am a Software Engineer based in Canada specializing in large scale software system design, web application development, telecommunications, computer security and software architecture. Over the past 5 years, I have worked in various capacities developing software for both industry and academia. I am currently a Software Development Engineer at Amazon and have been affiliated with various other organizations in the past. Recently, I have been taking an active interest in learning Front End technolgies. Besides work, I love to watch and play sports such as Soccer, Cricket and Badminton. I play the keyboards and like to experiment with music creation software. Additionally, I love to travel and am always looking for suggestions on cool places to go!",
     "contactmessage":"Lets get in touch!",
     "email": "razi.murshed@gmail.com",
     "phone": "+1 438-390-9398",
@@ -116,6 +116,10 @@
       {
         "name":"ReactJs",
         "level":"60%"
+      },
+      {
+        "name":"GraphQL",
+        "level":"70%"
       },
       {
         "name":"AWS",
